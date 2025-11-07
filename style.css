@@ -1,19 +1,19 @@
 body {
   background-color: #8B008B;
-  font-family:Arial, sans serif;
+  font-family:Arial, sans-serif;
   color: #191970;
 }
-.kartu-foto profil {
+.kartu-pp {
   width:300px;
-  margin:58px auto;
+  margin:50px auto; 
   padding:20px;
   background-color:cyan;
-  bonder-radius:15px;
-  box-shadow:0 4px 8px rgba(0, 0, 0, 0, 1);
+  border-radius:15px; 
+  box-shadow:0 4px 8px rgba(0,0,0,0.1);
   text-align:center;
 }
-.kartu-foto profil img{
-  widht:150px;
+.kartu-pp img{
+  width:150px;
   height:150px;
   border-radius:50%;
 }
