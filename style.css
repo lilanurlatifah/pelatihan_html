@@ -1,19 +1,21 @@
 body {
   background-color: #8B008B;
-  font-family:Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: #191970;
 }
+
 .kartu-pp {
-  width:300px;
-  margin:50px auto; 
-  padding:20px;
-  background-color:cyan;
-  border-radius:15px; 
-  box-shadow:0 4px 8px rgba(0,0,0,0.1);
-  text-align:center;
+  width: 300px;
+  margin: 50px auto; 
+  padding: 20px;
+  background-color: cyan;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+  text-align: center; 
 }
-.kartu-pp img{
-  width:150px;
-  height:150px;
-  border-radius:50%;
+
+.kartu-pp img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; 
 }
